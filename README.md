@@ -1,5 +1,6 @@
 
-# Tamul AI
+# Local AI
+
 
 Tamul AI is an AI-powered podcast agent featuring dual hosts for interactive discussions and real-time user Q&A. It leverages GenAI, Google TTS/STT, multithreading, and Redis caching for seamless, near-zero latency experiences.
 
